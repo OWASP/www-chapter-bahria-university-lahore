@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Zunnurain Hussain](mailto:zunnurain.hussain@owasp.org)
+* [Ahmed Sajid](mailto:ahmed.sajid@owasp.org)
+* [Zwaib ur Rehman](mailto:zwaib.urrehman@owasp.org)
