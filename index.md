@@ -1,13 +1,3 @@
----
-
-layout: col-sidebar
-title: OWASP Bahria University Lahore
-tags: example-tag
-region: Asia
-meetup-group:
-
----
-
 ## Greetings
 Welcome to OWASP Bahria University Lahore Chapter homepage, this chapter was introduced in Feburary 2024. This chapter leads are [Zunnurain Hussain](https://www.linkedin.com/in/muhammad-zunnurain-hussain-50641b61/), [Zwaib ur Rehman](https://www.linkedin.com/in/v0lks3c/) and [Ahmed Sajid](https://www.linkedin.com/in/a-sajid/).
 Follow us on our Social Handles
