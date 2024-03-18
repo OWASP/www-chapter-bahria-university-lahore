@@ -8,8 +8,12 @@ meetup-group:
 
 ---
 
-## Welcome
-Include some information here about your chapter
+## Greetings
+Welcome to OWASP Bahria University Lahore Chapter homepage, this chapter was introduced in Feburary 2024. This chapter leads are [Zunnurain Hussain](https://www.linkedin.com/in/muhammad-zunnurain-hussain-50641b61/), [Zwaib ur Rehman](https://www.linkedin.com/in/v0lks3c/) and [Ahmed Sajid](https://www.linkedin.com/in/a-sajid/).
+Follow us on our Social Handles
++ (LinkedIn)[https://www.linkedin.com/company/owasp-bulc-chapter/]
++ (Instagram)[]
++ (Youtube)[https://www.youtube.com/channel/UC1Bx56g8XCTMdKgzsEInf-A]
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
