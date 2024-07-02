@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Bahria University Lahore
 tags: example-tag
 region: Asia
+country: Pakistan
 meetup-group:
 
 ---
