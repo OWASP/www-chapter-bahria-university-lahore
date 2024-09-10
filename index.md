@@ -43,18 +43,18 @@ The OWASP Bahria University Lahore Chapter successfully hosted its first-ever or
 5. **OWASP Membership Benefits** 
 
 ### Speaker Highlights:
-- **Ahmed Sajid** introduced OWASP’s mission and the significance of securing web applications in today’s digital world.
-- **Zwaib ur Rehman** elaborated on OWASP’s various projects,guide attendees how to get OWASP Membership and how attendees can get involved.
-- **Zunnurain Hussain** provided insights into OWASP’s Top 10 vulnerabilities, giving real-world examples of their impact on web applications.
+- **Ahmed Sajid** Introduced OWASP’s mission and the significance of securing web applications in today’s digital world.
+- **Zwaib ur Rehman** Elaborated on OWASP’s various projects,guide attendees how to get OWASP Membership and how attendees can get involved.
+- **Zunnurain Hussain** Provided insights into OWASP’s Top 10 vulnerabilities, giving real-world examples of their impact on web applications.
   
 ### Guest Speaker:
-- ** Muhammad Namir** Share his experince as SOC Analyst and give us detail information how cyber industry works.
+- **Muhammad Namir** Share his experince as SOC Analyst and give us detail information how cyber industry works.
 
 ### Engagement and Interaction:
 Attendees participated in Q&A sessions and expressed strong interest in joining future OWASP initiatives. The event closed with networking opportunities and an open invitation for attendees to sign up for the chapter’s next event.
 
 ### Event Photos
-
+[View Event Media](https://photos.app.goo.gl/8WaGqq2JvLPwTWUAA)
 
 ### Looking Forward:
 Building on the success of this orientation, the OWASP Bahria University Lahore Chapter is planning more events, including workshops and hands-on training sessions on web application security. Stay tuned for announcements on upcoming activities!
