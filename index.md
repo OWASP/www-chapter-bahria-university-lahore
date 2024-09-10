@@ -37,39 +37,18 @@ The OWASP Bahria University Lahore Chapter successfully hosted its first-ever or
 
 ### Key Topics Covered:
 1. **Introduction to OWASP**  
-   OWASP (Open Worldwide Application Security Project) is a global, non-profit organization dedicated to improving software security. Attendees were introduced to OWASP’s mission, resources, tools, and best practices for enhancing web application security.
-
 2. **Why OWASP Matters**  
-   As web applications are increasingly targeted by cyber-attacks, OWASP’s role in guiding developers and organizations to build secure applications was emphasized. The session highlighted OWASP’s resources that provide developers with the knowledge to address common security risks and vulnerabilities.
-
 3. **OWASP Top 10 Vulnerabilities**  
-   A significant portion of the event focused on the **OWASP Top 10**, which lists the most critical web application security risks. Key vulnerabilities discussed included:
-   - **Broken Access Control**
-   - **Cryptographic Failures**
-   - **Injection Attacks**
-   - **Insecure Design**
-   - **Security Misconfiguration**
-   - **Vulnerable and Outdated Components**
-   - **Authentication Failures**
-   - **Security Logging and Monitoring Failures**
-   - **Server-Side Request Forgery (SSRF)**  
-   Attendees gained valuable insights into these threats and learned how to mitigate them using OWASP resources.
-
-4. **OWASP Projects**  
-   Participants were introduced to a range of OWASP projects aimed at testing, documentation, and education. Notable projects discussed included the **OWASP ZAP (Zed Attack Proxy)**, which helps find security vulnerabilities in web applications, and the **OWASP Web Testing Environment Project**, which provides a platform for practicing web security testing.
-
-5. **OWASP Membership Benefits**  
-   The benefits of OWASP membership were outlined, including:
-   - Networking opportunities at chapter meetings and events
-   - Discounts on training and events
-   - Voting in OWASP Global Board elections
-   - Opportunities to contribute to OWASP projects and the global security community  
-   Membership pricing and registration details were also shared, encouraging participants to get involved in advancing software security.
+4. **OWASP Projects**
+5. **OWASP Membership Benefits** 
 
 ### Speaker Highlights:
 - **Ahmed Sajid** introduced OWASP’s mission and the significance of securing web applications in today’s digital world.
-- **Zwaib ur Rehman** elaborated on OWASP’s various projects and how attendees can get involved.
+- **Zwaib ur Rehman** elaborated on OWASP’s various projects,guide attendees how to get OWASP Membership and how attendees can get involved.
 - **Zunnurain Hussain** provided insights into OWASP’s Top 10 vulnerabilities, giving real-world examples of their impact on web applications.
+  
+### Guest Speaker:
+- ** Muhammad Namir** Share his experince as SOC Analyst and give us detail information how cyber industry works.
 
 ### Engagement and Interaction:
 Attendees participated in Q&A sessions and expressed strong interest in joining future OWASP initiatives. The event closed with networking opportunities and an open invitation for attendees to sign up for the chapter’s next event.
