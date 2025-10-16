@@ -1,0 +1,25 @@
+leaders:
+  - name: Zunnurain Hussain
+    email: zunnurain.hussain@owasp.org
+  - name: Ahmed Sajid
+    email: ahmed.sajid@owasp.org
+    github: CyberAhmedX
+  - name: Shahmeer Nadeem
+    email: shahmeer.nadeem@owasp.org
+location:
+  country: Pakistan
+  country_code: PK
+  region: Punjab
+  city: Lahore
+  latitude: 31.4586462
+  longitude: 74.28875259752894
+name: OWASP Bahria University Lahore
+repositories:
+  - name: www-chapter-bahria-university-lahore
+    url: https://github.com/OWASP/www-chapter-bahria-university-lahore
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-bahria-university-lahore
